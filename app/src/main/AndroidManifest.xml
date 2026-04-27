@@ -4,7 +4,7 @@
     <application
         android:allowBackup="true"
         android:icon="@android:drawable/star_on"
-        android:label="FOOL'S TABLE"
+        android:label="@string/app_name"
         android:roundIcon="@android:drawable/star_on"
         android:supportsRtl="true"
         android:theme="@style/Theme.DurakRoguelike">
